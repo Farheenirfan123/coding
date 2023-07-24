@@ -1,0 +1,44 @@
+#klo{
+    border-width: 10px 10px;
+    border-color: rgba(236, 121, 12, 0.938);
+    
+ 
+}
+.box1{
+    color: rgb(245, 184, 110);
+    background-color: bisque;
+}
+.box2{
+    color: rgb(236, 127, 48);
+    background-color: rgb(236, 127, 48);;
+}
+.count{
+   position: absolute;
+   margin-left: 139px;
+   margin-top: 3px;
+   color: #ffffff;
+   
+}
+.ft{
+    position: absolute;
+    top: 000.000px;
+    right: 200px;
+    margin-top: 5px;
+    left: 189px;
+    color: #ffffff;
+}
+
+.yu{
+    position: absolute;
+    top: 257px;
+    margin-right: 100px;
+    margin-left: 203px;
+    color: #ffffff;
+}
+.hj{
+    position: absolute;
+    top: 14px;
+    margin-right: 12px;
+    margin-left: 405px;
+    color: #ffffff;
+}
